@@ -12,4 +12,4 @@
 <!-- -->
 
 # SwelAI
-HACIENDO PRUEBAS CON IA
+Trying to Implement a lot of things
